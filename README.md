@@ -1,4 +1,4 @@
-# Hi, I'm Boobesh Kannan 👋
+# Hi, I'm Boobesh Kannan 
 
 ### BE Electronics and Communication Engineering Student
 
@@ -22,8 +22,9 @@ An RFID project using an ESP32 and RDM6700 module to read card identifiers and r
 ## Currently Learning
 - C Programming
 - Embedded C
-- Microcontroller fundamentals
-- Git and GitHub
+- Microcontroller
+- autocad tools
+
 
 ## Career Goal
 Aspiring Automotive Embedded Engineer.

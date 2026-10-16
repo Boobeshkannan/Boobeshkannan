@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Boobesh Kannan 👋
 
-<!--
-**Boobeshkannan/Boobeshkannan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BE Electronics and Communication Engineering Student
 
-Here are some ideas to get you started:
+I'm an ECE student interested in Embedded Systems, IoT, microcontrollers, and Automotive Embedded Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Interests
+- Embedded Systems
+- ESP32 and Arduino-based development
+- C Programming
+- RFID and sensor interfacing
+- Electronics prototyping and testing
+
+## Projects
+
+### 1. ESP32-Based Sound-Activated Alarm Silencer
+An ESP32 project using a KY-038 sound sensor and threshold-based sound detection to control an alarm.
+
+### 2. ESP32-Based RFID ID Card Detection System
+An RFID project using an ESP32 and RDM6700 module to read card identifiers and record entry/exit events according to the implemented logic.
+
+## Currently Learning
+- C Programming
+- Embedded C
+- Microcontroller fundamentals
+- Git and GitHub
+
+## Career Goal
+Aspiring Automotive Embedded Engineer.
